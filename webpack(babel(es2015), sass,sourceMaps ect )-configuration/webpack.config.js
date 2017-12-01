@@ -4,7 +4,7 @@ module.exports = {
   entry: './app.js',
   output: {
     path: __dirname,
-    filename: './js/build.js'
+    filename: './dist/build.js'
   },
   //watch: true,
   devtool: 'source-map',
