@@ -28,6 +28,6 @@ module.exports = {
   ]
 },
   plugins: [
-    new ExtractTextPlugin("./styles/styles.css"),
+    new ExtractTextPlugin("./dist/styles/styles.css"),
   ]
 };
