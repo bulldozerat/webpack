@@ -1,0 +1,6 @@
+//cant upload to github for some reason you need to remate the file to .babelrc
+{
+    "presets":[
+        "es2015", "react"
+    ]
+}
